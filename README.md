@@ -16,7 +16,7 @@ If you'd like to know a little bit more about my background, you can check my Li
 --- 
 
 <p>
-### 📊 Statistics
+📊 Statistics
 </p>
 <p>
   <img 
