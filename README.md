@@ -32,14 +32,14 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=m705-bit&&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=gustavobecker0&&theme=tokyonight" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=m705-bit&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobecker0&&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
