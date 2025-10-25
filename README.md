@@ -26,7 +26,7 @@ If you'd like to know a little bit more about my background, you can check my Li
 </div>
 
 <p>
-### 📊 Statistics
+## 📊 Statistics
 </p>
 <p>
   <img 
