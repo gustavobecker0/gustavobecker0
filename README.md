@@ -1,6 +1,10 @@
-## Olá! Sou o Gustavo Henrique Becker, estudante de tecnologia!
+## Hi there! 
+My name is Gustavo Becker, and I am a Bachelor's student in Computer Science at the University of Vale do Rio dos Sinos; I have a technical degree in Electronics from Fundação Liberato; and am currently studying Java programming through the Geração Caldeira 2025 program, where I developed a strong interest in mathematics, technology, innovation, and culture.
+If you'd like to know a little bit more about my background, you can check my LinkedIn profile: www.linkedin.com/in/gustavohenriquebecker
 
+--- 
 
+### 🤖 Programming Languages and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Gus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Gus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -22,7 +26,7 @@
 </div>
 
 <p>
-### 📊 Estatísticas
+### 📊 Statistics
 </p>
 <p>
   <img 
